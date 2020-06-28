@@ -4,6 +4,7 @@
     </a>
 </p>
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Lenguaje-Latino/Latino)
 [![https://t.me/joinchat/EBHu7z6l6_paWtcJgu9DVQ](https://img.shields.io/badge/Soporte-Telegram-green.svg?style=plastic)](https://t.me/joinchat/AAAAAD6l6_qIgQAAgu9DVQ)
 [![Join the chat at https://gitter.im/primitivorm/latino](https://badges.gitter.im/primitivorm/latino.svg)](https://gitter.im/primitivorm/latino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -45,7 +46,7 @@
 
 <a name="intro"></a>
 ### Vídeo introductorio de Latino (clic en la imagen)
-[![Watch the video](https://raw.githubusercontent.com/MelvinG24/Latino/master/.readme/imgs/latinoVideo.bmp)](https://youtu.be/ljQKPihnejU)
+[![Video Introductorio de Latino](https://j.gifs.com/GvrEK0.gif)](https://youtu.be/ljQKPihnejU)
 
 <a name="porQue"></a>
 # ¿Por qué usar Latino?
@@ -78,6 +79,7 @@
 - [Chat en Gitter](https://gitter.im/primitivorm/latino?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [Chat en Telegram](https://t.me/joinchat/AAAAAD6l6_qIgQAAgu9DVQ)
 - [Manual Latino](https://manuallatino.blogspot.com)
+- [API de Latino](https://manuallatinoapi.blogspot.com)
 
 <a name="sintx"></a>
 # SINTAXIS DE LATINO
